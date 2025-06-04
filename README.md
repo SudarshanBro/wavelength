@@ -63,9 +63,10 @@ It is not fully functional yet, I am developing the remaining sections further. 
 -Collaborative episode editing
 
 ##Preview
-![Screenshot 2025-05-03 072406](https://github.com/user-attachments/assets/d16ec7ba-993c-4f9f-8f38-f60390e3fde4)
-![Screenshot 2025-05-03 072459](https://github.com/user-attachments/assets/c1957a75-922d-4aee-b644-fc4982b1c197)
-![Screenshot 2025-05-03 072625](https://github.com/user-attachments/assets/4f89fdf0-5d1a-451a-9dc0-4fdeb550e1f7)
-![Screenshot 2025-05-03 072656](https://github.com/user-attachments/assets/fc81ed2f-c5c6-4f02-938a-fd5e7710e5d5)
+![Screenshot 2025-05-03 072406](https://github.com/user-attachments/assets/21792fd8-a1c6-42a3-a4bb-bde8ddbc0bd9)
+![Screenshot 2025-05-03 072459](https://github.com/user-attachments/assets/d009dce0-2f80-4e6b-8c9f-13ae6658a224)
+![Screenshot 2025-05-03 072625](https://github.com/user-attachments/assets/aa47ff97-8b32-4357-8bea-08168fa8ee44)
+![Screenshot 2025-05-03 072656](https://github.com/user-attachments/assets/747ac414-babb-4c54-ac32-9d65615e91a1)
+
 
 THANK YOU. HAPPY CODING !  
